@@ -1,0 +1,19 @@
+body{
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #4b6a83;
+    background-color: #e8eaed;
+}
+
+html{
+    font-size: 16px;
+}
+
+h1{
+    font-size: 27px;
+}
+
+
